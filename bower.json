@@ -1,0 +1,17 @@
+{
+  "name": "knockout-react",
+  "description": "A wrapper / bridge for using Knockout with React.js and React.js with Knockout",
+  "main": "index.js",
+  "authors": [
+    "Leland Richardson"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "knockout",
+    "react"
+  ],
+  "homepage": "https://github.com/adamtal3/knockout-react",
+  "ignore": [
+    "node_modules"
+  ]
+}
